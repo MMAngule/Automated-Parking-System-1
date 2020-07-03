@@ -30,7 +30,7 @@ This is the project where we use vrep to simulate a parking model and make the c
 
 
 #### Aim and Description of Project :
-![Parking Model](Parking%20model.png)
+![Parking Model](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/Parking%20model.png)
 
 We, in this project, have aimed in bringing automation in cars which is already in a developing stage all around the world (Great example is of **Tesla's Self Driving Cars**). Although there are many aspects related to automation but we have focused on achieving a single task (automatic parking) by
 integration of sensors and actuators controlled by microcontroller and strategy
@@ -40,7 +40,7 @@ planning/coding and for this we have used **Naked Ackermann Model** which is alr
 
 We have used Coppeliasim Software for our project
 
-* [Coppeliasim]([https://](https://www.coppeliarobotics.com/))
+* [Coppeliasim](https://www.coppeliarobotics.com/)
 
 #### File Structure :
     .
@@ -94,11 +94,11 @@ git clone https://github.com/kart1802/Automated-Parking-System.git
 
 Now in coppeliasim there are main scripts and child scripts, we use child scripts which needs Lua language
 You can see after the name there is document type icon which is a script <br>
-![Script](script.png)<br>
+![Script](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/script.png)<br>
 When you double click and open it you will see the code
-![code](code.png)
+![code](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/code.png)
 After running the simulation if you get any error or you want to print something, you will see that in the given box below<br>
-![Lua](Lua.png)
+![Lua](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/Lua.png)
 
 ***
 ### Results and Demo
@@ -110,25 +110,25 @@ or the wall with the help of sensors in the front and back as well as the sides
 ***PERPENDICULAR PARKING*** :<br>
 The perpendicular parking takes only one 90° arc
 
-![Perpendicular Turning](perpendicular_turning.png) ![Perpendicular Parking](perpendicular_parking.png)
+![Perpendicular Turning](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/perpendicular_turning.png) ![Perpendicular Parking](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/perpendicular_parking.png)
 
 
 ***PARALLEL PARKING*** : <br>
 The parallel parking takes two arcs as explained above for parking
 
-![Parallel Turning](parallel_turning.png) ![Parallel Parking](parallel_parking.png)
+![Parallel Turning](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/parallel_turning.png) ![Parallel Parking](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/parallel_parking.png)
 
 ***EXIT FROM PARKING LOT*** : <br>
 
 1. **From Parallel** --->
 
-![Parallel Removal 1](parallel_removal.png)
-![Parallel Removal 2](parallel_removal2.png)
+![Parallel Removal 1](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/parallel_removal.png)
+![Parallel Removal 2](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/parallel_removal2.png)
 
 2. **From Perpendicular** --->
    
-![Perpendicular Removal 1](perpendicular_removal.png)
-![Perpendicular Removal 2](perpendicular_removal2.png)
+![Perpendicular Removal 1](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/perpendicular_removal.png)
+![Perpendicular Removal 2](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/perpendicular_removal2.png)
 
 
 Our Video Links -
