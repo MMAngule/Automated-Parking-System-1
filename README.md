@@ -30,7 +30,7 @@ This is the project where we use vrep to simulate a parking model and make the c
 
 
 #### Aim and Description of Project :
-![Parking Model](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/Parking%20model.png)
+![Parking Model](Images/Parking%20model.png)
 
 We, in this project, have aimed in bringing automation in cars which is already in a developing stage all around the world (Great example is of **Tesla's Self Driving Cars**). Although there are many aspects related to automation but we have focused on achieving a single task (automatic parking) by
 integration of sensors and actuators controlled by microcontroller and strategy
@@ -94,11 +94,11 @@ git clone https://github.com/kart1802/Automated-Parking-System.git
 
 Now in coppeliasim there are main scripts and child scripts, we use child scripts which needs Lua language
 You can see after the name there is document type icon which is a script <br>
-![Script](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/script.png)<br>
+![Script](Images/script.png)<br>
 When you double click and open it you will see the code
-![code](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/code.png)
+![code](Images/code.png)
 After running the simulation if you get any error or you want to print something, you will see that in the given box below<br>
-![Lua](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/Lua.png)
+![Lua](Images/Lua.png)
 
 ***
 ### Results and Demo
@@ -110,25 +110,25 @@ or the wall with the help of sensors in the front and back as well as the sides
 ***PERPENDICULAR PARKING*** :<br>
 The perpendicular parking takes only one 90° arc
 
-![Perpendicular Turning](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/perpendicular_turning.png) ![Perpendicular Parking](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/perpendicular_parking.png)
+![Perpendicular Turning](Images/perpendicular_turning.png) ![Perpendicular Parking](Images/perpendicular_parking.png)
 
 
 ***PARALLEL PARKING*** : <br>
 The parallel parking takes two arcs as explained above for parking
 
-![Parallel Turning](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/parallel_turning.png) ![Parallel Parking](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/parallel_parking.png)
+![Parallel Turning](Images/parallel_turning.png) ![Parallel Parking](Images/parallel_parking.png)
 
 ***EXIT FROM PARKING LOT*** : <br>
 
 1. **From Parallel** --->
 
-![Parallel Removal 1](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/parallel_removal.png)
-![Parallel Removal 2](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/parallel_removal2.png)
+![Parallel Removal 1](Images/parallel_removal.png)
+![Parallel Removal 2](Images/parallel_removal2.png)
 
 2. **From Perpendicular** --->
    
-![Perpendicular Removal 1](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/perpendicular_removal.png)
-![Perpendicular Removal 2](https://github.com/kart1802/Automated-Parking-System/blob/master/Images/perpendicular_removal2.png)
+![Perpendicular Removal 1](Images/perpendicular_removal.png)
+![Perpendicular Removal 2](Images/perpendicular_removal2.png)
 
 
 Our Video Links -
@@ -145,6 +145,7 @@ Our Video Links -
 * [x] Completed with parallel as well as perpendicular parking
 * [x] Completed the removal of a car from parking space as well
 * [ ] Need to use obstacle avoidance as well
+* [ ] Our parked car model is simply made of primitive figures and our code works based on those model, so we have try it on real car models as well
 
 * [ ] ***Self driving car***<br>
   As we have completed the automated parking sytem of cars , so in future we wish to work on self driving car . We deeply want to study about how cars run on road without any manual input . We are desperate to know , what mechanism goes behind it or how all things works ? It is good thing on which we can make project . By this project we will be unable to know about how self driving cars works . By this project we can understand Tesla cars in detail .
@@ -156,7 +157,7 @@ Our Video Links -
 ***
 ### Troubleshooting
 ***
-* The removal of car from parallel parking space may turn the car in the direction of parked cars thus raising the chances of a crash to avoid that change value of *dist_rl - dist_fl > 0.55 or 0.575* as for time being we have written the code that works mostly on numbers.
+* The removal of car from parallel parking space may turn the car in the direction of parked cars thus raising the chances of a crash to avoid that change value of Steering angle but to move the car in straight line you have to change the condition as for time being we have written the code that works mostly on numbers.
 * Also if some sensor has nil value of distance then lua will give an error regarding that , so then added condition like if distance value is not nil something like that and also not use print statements which also give errors
 
 ***
@@ -167,7 +168,7 @@ Our Video Links -
 1. Mr. Manas Thorat :
 2. Mr. Saharsh Jain :
 3. Mr. Omkar Sargar :
-4. Mr. Lukesh :
+4. Mr. Akshat Bhanushali :
    
 > Members
 
@@ -190,3 +191,5 @@ Our Video Links -
 ***
 ### License
 ***
+
+Licensed under [MIT License](LICENSE)
