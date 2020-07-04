@@ -181,7 +181,7 @@ Our Video Links -
 ### Acknowledgement and Resources
 ***
 
-* SRA VJTI Eklavya 2020
+* [SRA VJTI](http://sra.vjti.info/) Eklavya 2020
 * [Vrep Tutorials](https://www.youtube.com/watch?v=PwGY8PxQOXY&list=PLjzuoBhdtaXOoqkJUqhYQletLLnJP8vjZ)
 
 * [CiteSeerX PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.102.1958&rep=rep1&type=pdf)
