@@ -165,14 +165,14 @@ Our Video Links -
 ***
 > Mentors
 
-1. Mr. Manas Thorat :
+1. Mr. Manas Thorat : manasthorat09@gmail.com
 2. Mr. Saharsh Jain :
 3. Mr. Omkar Sargar :
-4. Mr. Akshat Bhanushali :
+4. Mr. Akshat Bhanushali : akshatbhanushali@gmail.com
    
 > Members
 
-1. Mr. Karthik Swaminathan : karthikswami.1802@gmail.com
+1. Mr. [Karthik Swaminathan](https://github.com/kart1802) : karthikswami.1802@gmail.com
 2. Mr. Gaurav Mundada : gauravmundada2001@gmail.com
 3. Ms. Mayuri Angule : mayuriangule2727@gmail.com
 4. Ms Sanghamitra Ranganathan : ranganathansanghamitra@gmail.com
@@ -181,7 +181,7 @@ Our Video Links -
 ### Acknowledgement and Resources
 ***
 
-* SRA VJTI Eklavya 2020
+* [SRA VJTI](http://sra.vjti.info/) Eklavya 2020
 * [Vrep Tutorials](https://www.youtube.com/watch?v=PwGY8PxQOXY&list=PLjzuoBhdtaXOoqkJUqhYQletLLnJP8vjZ)
 
 * [CiteSeerX PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.102.1958&rep=rep1&type=pdf)
